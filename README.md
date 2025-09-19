@@ -16,8 +16,10 @@
 ### Program 1:
 ```
 Name: Priyanka.K
-Reg.No: 212223230162```
-```python
+Reg.No: 212223230162
+```
+```
+python
 import pandas as pd
 df=pd.read_csv("/content/clustervisitor.csv")
 df.head()
@@ -43,7 +45,8 @@ plt.title("VisitorsDistribution Across Age Groups")
 
 ### Program 2:
 
-```python
+```
+python
 kmeans=KMeans(n_clusters=3,random_state=42)
 df3['cluster']=kmeans.fit_predict(df3)
 df3
