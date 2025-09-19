@@ -39,7 +39,7 @@ plt.ylabel("Number of Visitors")
 plt.title("VisitorsDistribution Across Age Groups")
 ```
 ### Output:
-<img width="698" height="663" alt="image" src="https://github.com/user-attachments/assets/e190aa90-a9e5-4cfb-b819-8e829e879a72" />
+<img width="333" height="737" alt="image" src="https://github.com/user-attachments/assets/45697550-69d5-4533-9ec7-c2b14d1032fa" />
 
 <img width="1107" height="724" alt="image" src="https://github.com/user-attachments/assets/9ffc21a7-d268-467b-8ada-331e30e1b68c" />
 
@@ -59,7 +59,7 @@ plt.show()
 
 <img width="481" height="676" alt="image" src="https://github.com/user-attachments/assets/c2d87347-bf52-489f-9d8a-73352d166906" />
 
-<img width="754" height="431" alt="image" src="https://github.com/user-attachments/assets/28a06779-e428-4e8d-9f0c-435e055ca60a" />
+![Uploading image.png…]()
 
 ### Result:
 The implement Cluster and Visitor Segmentation for Navigation patterns in Python is execute successfully
